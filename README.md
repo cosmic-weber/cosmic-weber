@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-These are the two files and save them in same folder in order to work very well. you can play around with some shapes :)
+These are the two files and save them in same folder in order to work very well. you can also play around with some shapes if you want :)
