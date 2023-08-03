@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm in learning phase but not for long! :)
+<h1>I'm in learning phase but not for long! :)</h1>
